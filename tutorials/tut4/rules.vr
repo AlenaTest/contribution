@@ -9,7 +9,7 @@ https://codejam[id]trail.hanatrial.ondemand.com/codejam/mylibrary.xsjs
  
 
 ###Match
-https://codejam[id]trail.hanatrial.ondemand.com/codejam/mylibrary.xsjs
+2
 [VALIDATE_4]
 
 [VALIDATE_5]
@@ -21,7 +21,7 @@ with 404
 EX: https://github.com/SAPDocuments/How-To-Contribution/issues/new?title=Feedback%20on%20Tutorial:%20How%20to%20download%20and%20install%20the%20HANA%20Eclipse%20plugin
 
 ###Match
-404
+2
 [VALIDATE_5]
 
 [VALIDATE_6]
@@ -33,6 +33,6 @@ with 301 ??? 401
 Ex: https://api-onedx.find400.sap.com/api/v1/search
 
 ###Match
-301, 401 
+2
 
 [VALIDATE_6]
