@@ -1,4 +1,4 @@
-[VALIDATE_4]
+[VALIDATE_1]
 ###Rule
 regex-with-id-exact-match
 
@@ -10,9 +10,9 @@ https://codejam[id]trail.hanatrial.ondemand.com/codejam/mylibrary.xsjs
 
 ###Match
 2
-[VALIDATE_4]
+[VALIDATE_1]
 
-[VALIDATE_5]
+[VALIDATE_2]
 ###Rule
 http-status-check
 
@@ -24,9 +24,9 @@ EX: https://github.com/SAPDocuments/How-To-Contribution/issues/new?title=Feedbac
 
 ###Match
 2
-[VALIDATE_5]
+[VALIDATE_2]
 
-[VALIDATE_6]
+[VALIDATE_3]
 ###Rule
 http-status-check
 
@@ -36,4 +36,4 @@ Ex: https://api-onedx.find400.sap.com/api/v1/search
 
 ###Match
 2
-[VALIDATE_6]
+[VALIDATE_3]
